@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240154
+# Name: Sriram M
+# Date: 18/05/2026
 
 
 # AIM:
@@ -40,9 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+<img width="1236" height="1010" alt="rcase" src="https://github.com/user-attachments/assets/b3bd5bbe-39c9-44e6-bf4b-03992ef88f74" />
 
 
 # CLASS DIAGRAM
@@ -59,6 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1232" height="1012" alt="rclass" src="https://github.com/user-attachments/assets/ee60029d-3e40-4b10-b763-dd8a2aa1ec44" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1232" height="1002" alt="rcommu" src="https://github.com/user-attachments/assets/1902172e-cd69-44d8-b60d-52addba5ff33" />
 
 
 
@@ -80,6 +80,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1238" height="1007" alt="rpacka" src="https://github.com/user-attachments/assets/cb6d66a1-574d-4d39-b7a3-08cbe7cdbf67" />
 
 
 
@@ -97,6 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="552" height="768" alt="ract" src="https://github.com/user-attachments/assets/6ead60ef-3bb3-4f9c-9ea8-4c9e8368f579" />
 
 
 
@@ -120,6 +122,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1217" height="990" alt="rseq" src="https://github.com/user-attachments/assets/8143e346-fd2d-42e6-8715-de5786f1bc44" />
 
 
 
